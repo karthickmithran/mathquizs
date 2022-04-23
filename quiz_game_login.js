@@ -6,3 +6,4 @@ function addUser(){
     document.getElementById("player1_name_input").value.innerHTML=player_1_name;
     window.location="quiz_game_page.html";
 }
+
